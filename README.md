@@ -1,6 +1,6 @@
 # Markov Chain Monte Carlo (MCMC) algorithms on Ultra-Faint Dwarf (UFDs) Galaxies
 
-#This work was done as an Undergraduate Researcher with the University of Virginia Near-Field Cosmology Group. 
+This work was done as an Undergraduate Researcher with the University of Virginia Near-Field Cosmology Group. 
 
 # The purpose of this Jupyter notebook is to analyze astrophysical parameters of UFDs of the Milky Way such as their metallicity, velocity gradient. 
 
